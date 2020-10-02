@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CDPlusPlus_Builder_Version_1.0.0>
+  <top>
+    <components> PedestrianWalk&#xd;</components>
+    <components> personGenLeft1@generator personGenLeft2@generator personGenLeft3@generator&#xd;</components>
+    <components> personGenLeft4@generator personGenLeft5@generator personGenLeft6@generator&#xd;</components>
+    <components> personGenRight1@generator personGenRight2@generator personGenRight3@generator&#xd;</components>
+    <components> personGenRight4@generator personGenRight5@generator personGenRight6@generator&#xd;</components>
+    <link> out@personGenLeft1 entranceBottomLeft1@PedestrianWalk&#xd;</link>
+    <link> out@personGenLeft2 entranceBottomLeft2@PedestrianWalk&#xd;</link>
+    <link> out@personGenLeft3 entranceBottomLeft3@PedestrianWalk&#xd;</link>
+    <link> out@personGenLeft4 entranceBottomLeft4@PedestrianWalk&#xd;</link>
+    <link> out@personGenLeft5 entranceBottomLeft5@PedestrianWalk&#xd;</link>
+    <link> out@personGenLeft6 entranceBottomLeft6@PedestrianWalk&#xd;</link>
+    <link> out@personGenRight1 entranceBottomRight1@PedestrianWalk&#xd;</link>
+    <link> out@personGenRight2 entranceBottomRight2@PedestrianWalk&#xd;</link>
+    <link> out@personGenRight3 entranceBottomRight3@PedestrianWalk&#xd;</link>
+    <link> out@personGenRight4 entranceBottomRight4@PedestrianWalk&#xd;</link>
+    <link> out@personGenRight5 entranceBottomRight5@PedestrianWalk&#xd;</link>
+    <link> out@personGenRight6 entranceBottomRight6@PedestrianWalk&#xd;</link>
+  </top>
+</CDPlusPlus_Builder_Version_1.0.0>
